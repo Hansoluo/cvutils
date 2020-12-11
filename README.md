@@ -1,9 +1,9 @@
 <!--
  * @Author: shy
  * @Description: 
- * @LastEditTime: 2020-12-11 17:07:52
+ * @LastEditTime: 2020-12-11 17:26:58
 -->
-# cvutils
+# just_utils
 A series of convenience functions to help training large image dataset with CNN
 
 ## install
@@ -19,5 +19,5 @@ python install setup.py
 2. from pypi
 
 ```python
-pip install cv_utils
+pip install just_utils
 ```
